@@ -1,37 +1,37 @@
 ﻿
 export const SITE_CONFIG = {
-  name: "Дмитрий Давыдов",
-  role: "Школьник, Шкильник",
-  description: "Учусь, работаю, монтирую, транслирую.",
-  about: "Меня зовут Дима, мне 14. Хотя, если ты вообще это читаешь - вряд ли ты пришел за этим, полистай чуть ниже - там мои проекты и то, чем я вообще занимаюсь!",
+  name: "Dmitry Davydov",
+  role: "Creative Visual Storyteller",
+  description: "Exploring the intersection of filmmaking, photography, and technology to create immersive visual experiences.",
+  about: "I am a young creative professional with a deep passion for filmmaking, photography, video production, directing, and producing. I thrive on the process of turning abstract ideas into compelling visual stories, combining technical precision with artistic intuition. My approach is driven by curiosity and a desire to push the boundaries of traditional visual media through the integration of modern technology.",
   interests: [
     {
-      title: "Учеба",
+      title: "Filmmaking",
       description: "Crafting cinematic narratives from concept to final cut, focusing on emotional resonance and visual pacing.",
       icon: "Film",
     },
     {
-      title: "Монтаж",
+      title: "Photography",
       description: "Capturing frozen moments of time, exploring light, shadow, and the unseen details of everyday life.",
       icon: "Camera",
     },
     {
-      title: "Режиссура",
+      title: "Video Production",
       description: "Managing the technical and creative aspects of high-quality video creation for various platforms.",
       icon: "Video",
     },
     {
-      title: "Продюсирование",
+      title: "Directing",
       description: "Leading creative visions and guiding performances to achieve a cohesive and impactful story.",
       icon: "Clapperboard",
     },
     {
-      title: "Самые разные проекты",
+      title: "Creative Projects",
       description: "Experimental ventures where art meets technology, pushing the limits of visual experimentation.",
       icon: "Palette",
     },
     {
-      title: "Съмки",
+      title: "Technology",
       description: "Integrating the latest tools and software to enhance the creative process and achieve new visual heights.",
       icon: "Cpu",
     },
@@ -71,13 +71,13 @@ export const SITE_CONFIG = {
     },
   ],
   personal: {
-    title: "дмитрий креативит",
-    description: "Заходи в мой телеграмм канал, показываю что у меня вообще происходит!.",
+    title: "Beyond the Lens",
+    description: "When I am not behind a camera or a monitor, I spend my time traveling and exploring new places. I believe that every journey is an opportunity to learn something new and see the world from a different perspective. Photography remains my constant companion, helping me document my experiences and the people I meet along the way.",
   },
   contact: {
-    email: "davydov@shki-chel.ru",
+    email: "hello@example.com",
     socials: [
-      { platform: "Telegram", handle: "@dmitriicreativit", url: "#" },
+      { platform: "Instagram", handle: "@dmitry_creative", url: "#" },
       { platform: "Behance", handle: "dmitry_davydov", url: "#" },
       { platform: "LinkedIn", handle: "dmitry-davydov", url: "#" },
     ],
